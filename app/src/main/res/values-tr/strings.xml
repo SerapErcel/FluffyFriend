@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FluffyFriend</string>
+    <string name="hayvanBaslik">Kedi</string>
+    <string name="mamaYazi">Mama</string>
+    <string name="kafesYazi">Kafes</string>
+    <string name="ilacYazi">İlaç</string>
+    <string name="kumYazi">Kum</string>
+    <string name="hayvanYas">2</string>
+    <string name="yasBaslik">Yaş</string>
+    <string name="aciklama">Yavru kedi ihtiyaçlarını tamamla veya sahiplen!</string>
+    <string name="butonYazi">Bağış Ekle</string>
+    <string name="butonYazi2">Sahiplen</string>
+    <string name="fluffy_friend">Fluffy Friend</string>
+</resources>
